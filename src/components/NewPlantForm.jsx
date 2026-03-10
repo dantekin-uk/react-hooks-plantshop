@@ -18,7 +18,7 @@ function NewPlantForm({ onAddPlant }) {
       body: JSON.stringify({
         name: name,
         image: image,
-        price: price,
+        price: parseFloat(price),
       }),
     })
       .then((r) => r.json())

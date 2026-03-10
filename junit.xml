@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="vitest tests" tests="5" failures="0" errors="0" time="0.8944482">
+    <testsuite name="src/__tests__/test_suites/AllPlants.test.jsx" timestamp="2026-03-10T13:25:03.232Z" hostname="wivi" tests="2" failures="0" errors="0" skipped="0" time="0.2386177">
+        <testcase classname="src/__tests__/test_suites/AllPlants.test.jsx" name="1st Deliverable &gt; displays all plants on startup" time="0.1858696">
+        </testcase>
+        <testcase classname="src/__tests__/test_suites/AllPlants.test.jsx" name="1st Deliverable &gt; plants aren&apos;t hardcoded" time="0.0489016">
+        </testcase>
+    </testsuite>
+    <testsuite name="src/__tests__/test_suites/CreatePlant.test.jsx" timestamp="2026-03-10T13:25:03.304Z" hostname="wivi" tests="1" failures="0" errors="0" skipped="0" time="0.2328218">
+        <testcase classname="src/__tests__/test_suites/CreatePlant.test.jsx" name="2nd Deliverable &gt; adds a new plant when the form is submitted" time="0.2303429">
+        </testcase>
+    </testsuite>
+    <testsuite name="src/__tests__/test_suites/SearchPlants.test.jsx" timestamp="2026-03-10T13:25:03.365Z" hostname="wivi" tests="1" failures="0" errors="0" skipped="0" time="0.2432517">
+        <testcase classname="src/__tests__/test_suites/SearchPlants.test.jsx" name="4th Deliverable &gt; filters plants by name on search" time="0.2397671">
+        </testcase>
+    </testsuite>
+    <testsuite name="src/__tests__/test_suites/InStock.test.jsx" timestamp="2026-03-10T13:25:03.374Z" hostname="wivi" tests="1" failures="0" errors="0" skipped="0" time="0.179757">
+        <testcase classname="src/__tests__/test_suites/InStock.test.jsx" name="3rd Deliverable &gt; marks a plant as sold out" time="0.1771583">
+        </testcase>
+    </testsuite>
+</testsuites>
